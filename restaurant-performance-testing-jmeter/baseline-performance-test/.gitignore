@@ -1,0 +1,17 @@
+# JMeter results
+*.jtl
+*.jtl.*
+results/*
+!results/.gitkeep
+
+# JMeter generated reports
+reports/*
+!reports/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
