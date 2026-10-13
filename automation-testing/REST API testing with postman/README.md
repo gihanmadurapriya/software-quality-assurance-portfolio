@@ -1,11 +1,5 @@
 
-# Software Quality Assurance Portfolio
-
-A practical portfolio of software quality assurance and software testing work. This repository contains test documentation, API testing assets, execution evidence, and reusable testing resources created to demonstrate a structured QA workflow.
-
-## Repository Contents
-
-### REST API Testing with Postman
+# REST API Testing with Postman
 
 The current project focuses on testing REST APIs with Postman. It includes:
 
