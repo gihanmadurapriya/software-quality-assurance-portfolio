@@ -1,4 +1,4 @@
-# SESoc Website — QA Testing Portfolio
+# SESoc Website — QA Manual Testing 
 
 Software quality assurance testing portfolio for the SESoc Society website, demonstrating manual testing, test case design, defect reporting, and test execution.
 
@@ -88,7 +88,6 @@ This repository is provided for educational and demonstration purposes. Include 
 
 ## Contact
 For questions or feedback about the QA work, contact:
-- Owner: Gihan Greshan
-- Email: gihangreshan@gmail.com
+- Owner: Gihan Madurapriya
 
 ---
